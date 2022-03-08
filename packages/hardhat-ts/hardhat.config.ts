@@ -180,7 +180,7 @@ task('mint', 'Mints NFTs to the specified address', async (_, hre) => {
   const { getNamedAccounts } = hre;
 
   // ADDRESS TO MINT TO:
-  const toAddress = '0xE987D57A1466E1Cb19CE9AbC3A01457890409b75';
+  const toAddress = '0xBdBA3880F9F20c68d2eB062de757705Fd64033b6';
 
   // // // // // // // // // // // // // // // // // //
 
